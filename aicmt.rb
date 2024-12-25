@@ -6,8 +6,8 @@ class Aicmt < Formula
   # sha256 "11a804bb77fbd4f9e4c20b252643267c54bfc920da12d150a4fc48f1c0883f65"
   license "MIT"
   url "https://github.com/versun/aicmt.git",
-    tag:      "v0.1.2",
-    revision: "2ec47420bde7c2d230ae8633d4c200277ccbe6fc"
+    tag:      "v0.1.3",
+    revision: "26364a7f809b28e8c75febc68054e54a1e08d633"
   head "https://github.com/versun/aicmt.git", branch: "main"
 
   livecheck do
